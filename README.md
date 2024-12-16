@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=archanaub04&theme=algolia&no-bg=true&no-frame=true" alt="archanaub04" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=archanaub04&theme=algolia&no-frame=true&column=3" alt="archanaub04" />
+  <img src="https://github-profile-trophy.vercel.app/?username=archanaub04&theme=algolia&no-frame=true&column=8" alt="archanaub04" />
 
 </p>
 
