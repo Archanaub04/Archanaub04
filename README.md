@@ -1,145 +1,98 @@
 <h1 align="center">Hi 👋, I'm Archana U B</h1>
-<h3 align="center">A Passionate Full Stack Developer 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | Laravel Expert | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://twitter.com/archanaub24" target="blank">
-    <img src="https://img.shields.io/twitter/follow/archanaub24?logo=twitter&style=for-the-badge" alt="archanaub24" />
-  </a>
-  <a href="https://linkedin.com/in/archanaub" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="archanaub" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Expert+Laravel+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%E2%9A%99%EF%B8%8F;Love+to+build+clean+and+scalable+code!;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ About Me
-- 🌱 **Currently Learning:** *React JS, Front-End Frameworks, Full Stack Development*
-- 👯 **Looking to Collaborate:** *Laravel Projects* 
-- 💬 **Ask Me About:** *PHP, Laravel, CodeIgniter*
-- 🌟 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House
+## 💫 About Me
+
+- 👩‍💻 I’m a Laravel Full Stack Developer with 3+ years of experience  
+- 🌱 Currently learning: **React.jsL**
+- 🧠 Goal: Master **all popular stacks** – Laravel, MERN, Next.js, Spring Boot, PostgreSQL, TypeScript
+- 💬 Ask me about: Laravel, PHP, React, APIs, Clean Code, Design Patterns  
+<!-- - 📫 How to reach me: **archanaub24@gmail.com** -->
+- 🧳 Fun fact: I love turning complex ideas into real-world web apps!  
+- 💡 _“Code is like humor. When you have to explain it, it’s bad.”_
 
 ---
 
-## 🖇️ Connect with Me
-<p align="center">
-  <a href="https://codepen.io/archanaub" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/archanaub24" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/archanaub" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/21011383" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="40" width="40" />
-  </a>
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/archanaub" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/archanaub24" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/21011383" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💻 Languages and Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 👩‍💻 Languages
 
-<p align="center">
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
- </p>
+### 🌐 Frontend
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 
-### Frameworks 
+### 🧩 Backend & Frameworks
 
-<p align="center">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="40" height="40"/>
-</a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-  </a>
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-F05340.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814.svg?&style=for-the-badge&logo=codeigniter&logoColor=white)
 
-### Frontend Development
+### 🛢 Databases
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind" width="40" height="40"/> 
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
- </p>
+### ⚙️ Tools
 
-### Backend Development
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
-### Database
+### ☁️ Cloud & Services
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?&style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF9900.svg?&style=for-the-badge&logo=amazon-sns&logoColor=white)
 
-<p align="center">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-</p>
-
-### Software
-
-<p align="center">
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-</p>
-
-### Tools
-
-<p align="center">
- 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
- 
-</p>
-
-### Others
-
-<p align="center">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-</p>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanaub04&layout=compact&theme=radical" alt="Top Languages" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=archanaub04&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=archanaub04&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanaub04&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
+
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archanaub04&theme=radical" alt="GitHub Streak" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=archanaub04&theme=onedark&no-bg=true&no-frame=true" />
+</p> -->
 
+
+
+<!-- ## 💡 Projects I'm Proud Of
+
+- 🛒 **E-commerce Store** – Laravel + Vue.js + Stripe  
+- 📸 **Event Photo Filter App** – AWS Rekognition + Lambda + S3  
+- 📚 **Dynamic Ebook Website** – Laravel + Livewire + Tailwind  
+- 🔐 **OAuth2 DigiLocker Integration** – CodeIgniter + Government API --> 
+
+
+
+> ✨ _“Strive for progress, not perfection”_  
+> 🌟 Let's build together! Feel free to connect.
