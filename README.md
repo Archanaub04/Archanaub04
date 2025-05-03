@@ -10,7 +10,7 @@
 ## 💫 About Me
 
 - 👩‍💻 I’m a Laravel Full Stack Developer with 3+ years of experience  
-- 🌱 Currently learning: **React.jsL**
+- 🌱 Currently learning: **React.js**
 - 🧠 Goal: Master **all popular stacks** – Laravel, MERN, Next.js, Spring Boot, PostgreSQL, TypeScript
 - 💬 Ask me about: Laravel, PHP, React, APIs, Clean Code, Design Patterns  
 <!-- - 📫 How to reach me: **archanaub24@gmail.com** -->
