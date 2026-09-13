@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archana U B</h1>
-<h3 align="center">🚀 Full Stack Developer | Laravel Expert | Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Expert+Laravel+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%E2%9A%99%EF%B8%8F;Love+to+build+clean+and+scalable+code!;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
