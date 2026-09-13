@@ -70,12 +70,12 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archanaub04&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanaub04&layout=compact&theme=github_dark&hide_border=true" width="49%" />
-</p>
+</p> -->
 
 <!-- ## 🏆 GitHub Trophies
 
